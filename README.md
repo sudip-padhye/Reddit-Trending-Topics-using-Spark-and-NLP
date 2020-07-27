@@ -17,7 +17,7 @@ In this project, we read data from reddit server and try to interpret it using S
 1. Create the Spark context and read the data from reddit using json file format.
 2. Extract required fields from the data.
 
-<img src="screenshots/2.JPG" alt="drawing" width="800" height="200"/>
+<img src="screenshots/2.JPG" alt="drawing" width="800" height="170"/>
 
 3. From the data, we split each words and count its corresponding frequency. 
 4. However, with this naive splitting we end up with stop-words with maximum frequency.
